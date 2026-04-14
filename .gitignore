@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model artifacts
+models/*.pkl
+!models/.gitkeep
+
+# Notebook autosave checkpoints
+.ipynb_checkpoints/
+
+# Local app/runtime outputs
+*.log
+streamlit.out
+streamlit.err
