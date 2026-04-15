@@ -1,4 +1,4 @@
-# Data Science Projects
+# Bengaluru House prices
 
 Bengaluru house price prediction starter project.
 
